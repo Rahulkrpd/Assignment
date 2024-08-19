@@ -14,7 +14,7 @@ This is the backend API for the Card Management system. It provides endpoints to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Rahulkrpd/Assignment.git
 cd your-repo-name/backend
 
 npm install
