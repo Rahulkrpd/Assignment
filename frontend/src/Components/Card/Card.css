@@ -1,0 +1,26 @@
+/* Card.css */
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex: 1;
+}
+
+.card-title {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.card-divider {
+    margin: 16px 0;
+    border: none;
+    border-top: 1px solid #cccc;
+}
+
+.card-description {
+    font-size: 1em;
+    color: #555;
+}
